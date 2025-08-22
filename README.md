@@ -18,4 +18,4 @@ Wsg? 🪽
 
 Languages & Frameworks I use
 
-![Languages & Frameworks I use](https://skillicons.dev/icons?i=go,git,python,rust,lua,tensorflow,pytorch,nuxtjs,tailwind,prisma,graphql,scala,rollupjs)
+![Languages & Frameworks I use](https://skillicons.dev/icons?i=go,git,c,python,rust,tensorflow,pytorch,nuxtjs,tailwind,prisma,graphql,scala,bootstrap)
