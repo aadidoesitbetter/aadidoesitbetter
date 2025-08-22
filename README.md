@@ -3,14 +3,13 @@ Wsg? 🪽
 <a href="#stats" align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=aadidoesitbetter&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=00000000"
+      srcset="https://github-readme-stats.vercel.app/api?username=aadidoesitbetter&show_icons=true&theme=transparent"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=aadidoesitbetter&count_private=true&show_icons=true&include_all_commits=true&theme=default&hide_border=true&bg_color=00000000"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://github-readme-stats.vercel.app/api?username=aadidoesitbetter&show_icons=true&theme=transparent"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=aadidoesitbetter&count_private=true&show_icons=true&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aadidoesitbetter&show_icons=true&theme=transparent" />
   </picture>
 </a>
 
