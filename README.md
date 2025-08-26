@@ -14,7 +14,7 @@ Wsg?
 </a>
 
 > ### Let's Connect
-> Got ideas? I got commits. Ping me at **aadidoesitbetter@gmail.com**
+> Got ideas? I got commits. connect with me at **aadidoesitbetter@gmail.com**
 
 Languages & Frameworks I use
 
