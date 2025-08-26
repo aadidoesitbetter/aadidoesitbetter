@@ -1,4 +1,4 @@
-Wsg? 🪽
+Wsg?
 
 <a href="#stats" align="center">
   <picture>
