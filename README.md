@@ -7,9 +7,9 @@
 
 
 <p align="center">
-<a href= "https://dev.to/aadidoesitbetter"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-<a href= "https://www.linkedin.com/in/aadidoesitbetter/"><img src="https://img.icons8.com/?size=32&id=44914&format=png&color=000000"/></a>
-<a href= "https://leetcode.com/u/aadidoesitbetter/"><img src="https://img.icons8.com/?size=32&id=S22n5FcHWTiO&format=png&color=000000"/></a>
+<a href= "https://dev.to/aadidoesitbetter"><img src="https://img.shields.io/badge/dev.to-6364ff"/></a>
+<a href= "https://www.linkedin.com/in/aadidoesitbetter/"><img src="https://img.shields.io/badge/linkedin-0a66c2"/></a>
+<a href= "https://leetcode.com/u/aadidoesitbetter/"><img src="https://img.shields.io/badge/leetcode-ff66ab"/></a>
 </p>
 
 <p align="center"><samp>
