@@ -1,5 +1,4 @@
-
-<h4 align="center"><samp> Hi there! Welcome to my Github! I'm an Open Source Developer who likes data and AI.</samp></h4>
+<h4 align="center"><samp> Wsg? 👁️ I’m Aditya, a data enthusiast building systems that learn, adapt, and interact. </samp></h4>
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTgwaHd0YWE0MXdvcXY5NnFlOGFncXlhYjZqeTM4bmhueDE2eWVucyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SlKBbQNNZNfcPRWYW7/giphy.gif">
