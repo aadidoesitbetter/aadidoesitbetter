@@ -19,10 +19,19 @@
 </p>
 
 <p align="center">
-  <a href= "https://dev.to/aadidoesitbetter"><img src="https://img.shields.io/badge/dev.to-6364ff"/></a>
-  <a href= "https://www.linkedin.com/in/aadidoesitbetter/"><img src="https://img.shields.io/badge/linkedin-0a66c2"/></a>
-  <a href= "https://leetcode.com/u/aadidoesitbetter/"><img src="https://img.shields.io/badge/leetcode-ff66ab"/></a>
+  <a href="https://dev.to/aadidoesitbetter">
+    <img src="https://img.shields.io/badge/dev.to-111?style=flat-square&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aadidoesitbetter/">
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=flat-square&logoColor=0A66C2"/>
+  </a>
+  <a href="https://leetcode.com/u/aadidoesitbetter/">
+    <img src="https://img.shields.io/badge/LeetCode-111?style=flat-square&logoColor=FFA116"/>
+  </a>
 </p>
+
+
+
 
 <p align="center"><samp>
 Check out my repos  
