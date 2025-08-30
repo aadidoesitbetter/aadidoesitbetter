@@ -1,4 +1,4 @@
-<h4 align="center"><samp> Wsg? 👁️ I’m Aditya, a data and AI enthusiast building systems that learn, adapt, and interact. </samp></h4>
+<h4 align="center"><samp> Wsg? 👁️ I’m Aditya, a data and AI enthusiast building systems that learn, adapt, and interact. I also open souurce you know. </samp></h4>
 
 <h4 align="center"><samp> Languages & Tools I Use </samp></h4>
 <p align="center">
